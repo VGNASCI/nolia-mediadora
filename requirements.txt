@@ -1,0 +1,13 @@
+streamlit==1.28.0
+opencv-python==4.8.1.78
+mediapipe==0.10.0
+speechrecognition==3.10.0
+gtts==2.3.0
+transformers==4.35.0
+torch==2.0.1
+numpy==1.24.0
+pydub==0.25.1
+google-api-python-client==2.100.0
+firebase-admin==6.2.0
+python-dotenv==1.0.0
+requests==2.31.0
